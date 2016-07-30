@@ -1,0 +1,2 @@
+# etcjs
+Assorted JavaScript tinkering
